@@ -16,7 +16,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 
 ## II Gry
 1. CreateJS (http://createjs.com/) [Kowalczyk]
-2. Phaser (http://phaser.io/) [Kindla]
+2. Phaser (http://phaser.io/) [Kindla][Bednarczyk]
 3. pixi.js (http://www.pixijs.com/)
 
 ## III Komunikacja, protokoły
